@@ -1,4 +1,4 @@
-var banners = ["Os melhores de Angola!", "Qualidade e preço baixo!"];
+var banners = ["Do lixo ao luxo!", "Reaproveitar é aproveitar!"];
 var bannerActual = 0;
 
 function trocaBanner()
